@@ -1,5 +1,5 @@
 <h1 align="center">  Hi there 👋, i'm Eldridge</h1>
-<h2 align="center"> Inventor, Designer and Developer</h2> 
+<h6 align="center"> Inventor, Designer and Developer</h6> 
 
 ![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718176088/1080x360)
 
