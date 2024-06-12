@@ -1,5 +1,6 @@
 <h1 align="center">  Hi there 👋, i'm Eldridge</h1>
 <h2 align="center"> Inventor, Designer and Developer</h2> 
+
 ![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718176088/1080x360)
 
 I'm an innovative and creative individual focused on innovative design and development.
