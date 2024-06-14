@@ -8,7 +8,7 @@
 </p>
 <hr>
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
-<hr width="50%" align="center">
+<hr align="center">
 <h6>Skills:</h6> 
 <p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE </p>
 <h6>Quick Summary:</h6>
