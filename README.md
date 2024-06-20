@@ -4,7 +4,7 @@
 <hr>
 <p align="center">
   
-![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718176088/1080x360)
+![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718870964/1500x500)
 </p>
 <hr>
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
