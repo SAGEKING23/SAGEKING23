@@ -14,9 +14,9 @@
 <h6>Quick Summary:</h6>
 
  - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
- - 💬 Ask me about HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL 
- - 📫 How to reach me:  Ntsako.sapphire@gmail.com 
- - ⚡ Fun fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
+ - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
+ - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
+ - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
 
 <hr  >
 <h6>Social Links:</h6>
