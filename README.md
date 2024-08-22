@@ -13,7 +13,7 @@
 <p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE </p>
 <h6>Quick Summary:</h6>
 
- - 🌱 I’m currently learning data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
+ - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
  - 💬 Ask me about HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL 
  - 📫 How to reach me:  Ntsako.sapphire@gmail.com 
  - ⚡ Fun fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
