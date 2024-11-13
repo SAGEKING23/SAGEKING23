@@ -10,7 +10,7 @@
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
 <hr align="center">
 <h6>Skills:</h6> 
-<p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE </p>
+<p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / BLENDER / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE </p>
 <h6>Quick Summary:</h6>
 
  - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
