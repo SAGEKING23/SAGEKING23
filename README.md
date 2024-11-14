@@ -12,7 +12,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/eldridge-baloyi-90ba54218/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
-> "A well deseverd life requires love"
+> "Love overcomes all, Coding process all, Execution compells all"
 
 ---
 
