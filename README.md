@@ -11,6 +11,7 @@
 <hr>
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
 <hr align="center">
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
 > "A well deseverd life requires love"
@@ -63,8 +64,13 @@ languages: ["JavaScript", "Python", "C++"]
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="47%" alt="GitHub Streak Stats" />
+ 
+  ![SAGEKING GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGEKING23&show_icons=true&theme=transparent)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGEKING23&show_icons=true&theme=transparent)
+  
+  ![GitHub metrics](https://metrics.lecoq.io/SAGEKING23)  
+
 </p>
 
 ---
@@ -104,12 +110,3 @@ languages: ["JavaScript", "Python", "C++"]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAGEKING23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sageking.jin)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sage_king_jin/)  
 
-<h6>Github Stats:</h6>
-
-![SAGEKING GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGEKING23&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGEKING23&show_icons=true&theme=transparent)
-
-
-![GitHub metrics](https://metrics.lecoq.io/SAGEKING23)  
-
-<hr>
