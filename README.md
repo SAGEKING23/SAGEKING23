@@ -24,7 +24,7 @@ role: Freelance Web Designer, Developer and Game Designer/Developer
 location: Pretoria, South Africa
 education: Dip in Frontend and Backend Dev, Business Admin, Operations Management, Digital Marketing
 interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
-languages: ["JavaScript", "Python", "C++"]
+languages: ["No code", "JavaScript", "Python", "C++"]
 ```
 
 - 💼 Currently working at **Growit MC**.
