@@ -45,7 +45,8 @@ languages: ["JavaScript", "Python", "C++"]
 <details>
   <summary>More Skills</summary>
   <ul>
-    <li>Backend: Node.js, Express, Django</li>
+    <li>Frontend: HTML, React, Css</li>
+    <li>Backend: Javascript, Node.js, Express, Django</li>
     <li>Database: MongoDB, PostgreSQL</li>
     <li>Version Control: Git, GitHub</li>
     <li>Learning DevOps: Docker, Kubernetes</li>
