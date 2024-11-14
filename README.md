@@ -90,9 +90,9 @@ languages: ["JavaScript", "Python", "C++"]
 
 ## 🌐 Connect with Me
 
-- 💬 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 💬 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)
 - 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
-- 📫 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📫 Email: [GMAIL](mailto:ntsako.sapphire@gmail.com)
 
 ---
 
