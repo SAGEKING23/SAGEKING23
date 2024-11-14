@@ -29,7 +29,7 @@ languages: ["JavaScript", "Python", "C++"]
 
 - 💼 Currently working at **Growit MC**.
 - 🌱 Learning **Sustainable Development** and **Game Development**.
-- 🎯 Goal for 2024: Populate my repository with all my projects.
+- 🎯 Goal for 2024: Populate my repository with most of my projects.
 - ⚡ Fun Fact: I love pizza and am always on the lookout for a great spots.
 
 ---
