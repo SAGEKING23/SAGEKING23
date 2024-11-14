@@ -10,7 +10,8 @@
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
 <hr align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![Facebook Badge](https://img.shields.io/badge/-
+Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/yourusername)](https://facebook.com/yourusername) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/eldridge-baloyi-90ba54218/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
 > "A well deseverd life requires love"
 
