@@ -7,33 +7,31 @@
 ![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718874245/1500x500)
 </p>
 <hr>
-A well-designed GitHub profile README is an excellent way to showcase your personality, skills, and projects to anyone visiting your profile. Here’s a sample README template that uses Markdown to create a visually appealing and interactive profile. You can use animations, badges, and icons to give it extra style!
-
 ---
-
-# Hi there! 👋 I'm [Your Name] 
-
+<hr>
+<p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
+<hr align="center">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
-> "A short personal quote or motto you live by."
+> "A well deseverd life requires love"
 
 ---
 
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Your Name
+name: Eldridge Ntsako Garth
 role: Full Stack Developer
-location: Your City, Country
-education: B.S. in Computer Science
-interests: ["Coding", "Music", "Art", "Travel"]
+location: Pretoria, SOuth Africa
+education: Dip in Frontend and Backend Dev, Business Admin, Operations Management
+interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
 languages: ["JavaScript", "Python", "C++"]
 ```
 
-- 💼 Currently working at **Your Company**.
-- 🌱 Learning **Machine Learning** and **Cloud Computing**.
-- 🎯 Goal for 2024: Contribute to open-source projects.
-- ⚡ Fun Fact: I love coffee and am always on the lookout for a great brew.
+- 💼 Currently working at **Growit MC**.
+- 🌱 Learning **Sustainable Development** and **Game Development**.
+- 🎯 Goal for 2024: Populate my repository with all my projects.
+- ⚡ Fun Fact: I love pizza and am always on the lookout for a great spots.
 
 ---
 
@@ -48,11 +46,16 @@ languages: ["JavaScript", "Python", "C++"]
 <details>
   <summary>More Skills</summary>
   <ul>
+    - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
+    - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
+    - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
+    - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
     <li>Backend: Node.js, Express, Django</li>
     <li>Database: MongoDB, PostgreSQL</li>
     <li>Version Control: Git, GitHub</li>
-    <li>DevOps: Docker, Kubernetes</li>
+    <li>Learning DevOps: Docker, Kubernetes</li>
   </ul>
+  <p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / CANVA / DREAMWEAVER / BLENDER / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE / NOTION  </p>
 </details>
 
 ---
@@ -96,28 +99,6 @@ languages: ["JavaScript", "Python", "C++"]
 
 ---
 
-## 🎶 Spotify Now Playing
-
-> Embed your current Spotify song here using this [Spotify-Readme](https://github.com/kittinan/spotify-github-profile) widget.
-
-[![Spotify](https://novatorem.yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
-**This template offers a well-organized layout with interactive stats, badges, and widgets**—perfect for showcasing skills, projects, and personal info in a dynamic and eye-catching way. Feel free to personalize the theme colors, icons, and sections to match your style!
-<hr>
-<p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
-<hr align="center">
-<h6>Skills:</h6> 
-<p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / CANVA / DREAMWEAVER / BLENDER / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE / NOTION  </p>
-<h6>Quick Summary:</h6>
-
- - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
- - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
- - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
- - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
-
-<hr  >
 <h6>Social Links:</h6>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAGEKING23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sageking.jin)
