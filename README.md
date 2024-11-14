@@ -51,6 +51,7 @@ languages: ["JavaScript", "Python", "C++"]
     <li>Learning DevOps: Docker, Kubernetes</li>
   </ul>
   - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
+  
   - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
   - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
   - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
@@ -68,7 +69,6 @@ languages: ["JavaScript", "Python", "C++"]
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGEKING23&show_icons=true&theme=transparent)
   
-  ![GitHub metrics](https://metrics.lecoq.io/SAGEKING23)  
 
 </p>
 
