@@ -7,8 +7,6 @@
 ![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718874245/1500x500)
 </p>
 <hr>
----
-<hr>
 <p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
 <hr align="center">
 
@@ -22,9 +20,9 @@
 
 ```yaml
 name: Eldridge Ntsako Garth
-role: Full Stack Developer
-location: Pretoria, SOuth Africa
-education: Dip in Frontend and Backend Dev, Business Admin, Operations Management
+role: Freelance Web Designer, Developer and Game Designer/Developer
+location: Pretoria, South Africa
+education: Dip in Frontend and Backend Dev, Business Admin, Operations Management, Digital Marketing
 interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
 languages: ["JavaScript", "Python", "C++"]
 ```
@@ -47,15 +45,16 @@ languages: ["JavaScript", "Python", "C++"]
 <details>
   <summary>More Skills</summary>
   <ul>
-    - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
-    - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
-    - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
-    - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
     <li>Backend: Node.js, Express, Django</li>
     <li>Database: MongoDB, PostgreSQL</li>
     <li>Version Control: Git, GitHub</li>
     <li>Learning DevOps: Docker, Kubernetes</li>
   </ul>
+  - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
+  - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
+  - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
+  - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
+    
   <p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / CANVA / DREAMWEAVER / BLENDER / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE / NOTION  </p>
 </details>
 
