@@ -12,7 +12,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/eldridge-baloyi-90ba54218/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
-> "Love overcomes all, Coding process all, Execution compells all"
+>
 
 ---
 
@@ -27,7 +27,7 @@ interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
 languages: ["No code", "JavaScript", "Python", "C++"]
 ```
 
-- 💼 Currently working at **Growit MC**.
+- 💼 Worked at **Growit MC**.
 - 🌱 Learning **Sustainable Development** and **Game Development**.
 - 🎯 Goal for 2024: Populate my repository with most of my projects.
 - ⚡ Fun Fact: I love pizza and am always on the lookout for a great spots.
