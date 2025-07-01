@@ -78,10 +78,11 @@ languages: ["No code", "JavaScript", "Python", "C++"]
 
 ## 💼 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/projectname)
+### [🪙 Young Billionaires Universe](https://github.com/SAGEKING23/Young-Billionaires-Universe)
 > A brief description of what this project does.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SAGEKING23/Young-Billionaires-Universe&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SAGEKING23&repo=Young-Billionaires-Universe2&theme=radical)
+
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 > A brief description of what this project does.
