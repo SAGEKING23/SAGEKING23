@@ -30,7 +30,7 @@ languages: ["No code", "JavaScript", "Python", "C++"]
 - 💼 **Open to Collabs and freelance offers**.
 - 💼 Worked at **Growit MC**.
 - 🌱 Learning **Sustainable Development** and **Game Development**.
-- 🎯 Goal for 2024: Populate my repository with most of my projects.
+- 🎯 Goal for 2025: Populate my repository with most of my projects.
 - ⚡ Fun Fact: I love pizza and am always on the lookout for a great spots.
 
 ---
@@ -95,7 +95,7 @@ Optimized for use in Unreal Engine, Unity, and other DCC tools. Includes street 
 ## 🌐 Connect with Me
 
 - 💬 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 🌐 Portfolio: [Your Portfolio](https://sketchfab.com/sageking233)
 - 📫 Email: [GMAIL](mailto:ntsako.sapphire@gmail.com)
 
 ---
