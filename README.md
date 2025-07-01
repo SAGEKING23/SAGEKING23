@@ -81,7 +81,7 @@ languages: ["No code", "JavaScript", "Python", "C++"]
 ### [Project Name 1](https://github.com/yourusername/projectname)
 > A brief description of what this project does.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?https://github.com/SAGEKING23/Young-Billionaires-Universe&theme=radical)
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 > A brief description of what this project does.
