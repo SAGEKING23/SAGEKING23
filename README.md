@@ -84,8 +84,9 @@ languages: ["No code", "JavaScript", "Python", "C++"]
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SAGEKING23&repo=Young-Billionaires-Universe2&theme=radical)
 
 
-### [Project Name 2](https://github.com/yourusername/projectname2)
-> A brief description of what this project does.
+### 📦 [3D Assets](https://github.com/SAGEKING23/3D-Assets)
+Game-ready 3D models designed in Marvelous Designer, Blender, and SketchUp.  
+Optimized for use in Unreal Engine, Unity, and other DCC tools. Includes street signs, clothing, props, and more.
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname2&theme=radical)
 
