@@ -27,6 +27,7 @@ interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
 languages: ["No code", "JavaScript", "Python", "C++"]
 ```
 
+- 💼 **Open to Collabs and freelance offers**.
 - 💼 Worked at **Growit MC**.
 - 🌱 Learning **Sustainable Development** and **Game Development**.
 - 🎯 Goal for 2024: Populate my repository with most of my projects.
