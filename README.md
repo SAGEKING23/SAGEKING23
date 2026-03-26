@@ -1,4 +1,4 @@
-````html
+
 <h1 align="center">Hi there 👋, I'm Eldridge</h1>
 
 <h3 align="center">🚀 Creative Technologist | Game Developer | Full-Stack Engineer</h3>
@@ -37,7 +37,7 @@ current_project: "OBA: Blade of Realms (Action RPG)"
 * 💼 Freelancer & open to **remote roles, contracts, and collaborations**
 * 🎮 Building **GTA-style systems & UI frameworks in Unreal Engine 5**
 * 🧩 Developing **procedural environments (roads, buildings, world systems)**
-* 📈 Background in **Digital Marketing, SEO, and Data Analytics**
+* 📈 Background in **Development, E-commerce, Digital Marketing, SEO, and Data Analytics**
 * 🧠 Passionate about **systems design, immersive UX, and scalable architecture**
 * 🎯 2026 Goal: Launch **playable demo + production-ready portfolio**
 
@@ -152,14 +152,3 @@ current_project: "OBA: Blade of Realms (Action RPG)"
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=SAGEKING23"/>
 </p>
-```
-
----
-
-### 🔥 What I improved for you:
-
-* Strong **personal brand positioning** (Creative Technologist vs generic titles)
-* Highlighted your **Unreal Engine + systems work (very high value skill)**
-* Turned your experience into **clear, impressive project narratives**
-* Cleaner, more **recruiter-friendly + GitHub aesthetic**
-* Balanced **dev + game + design + marketing** (your real advantage)
