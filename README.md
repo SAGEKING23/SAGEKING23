@@ -1,115 +1,33 @@
-<h1 align="center">  Hi there 👋, i'm Eldridge</h1>
+<h1 align="center">Hi there 👋, I'm Eldridge</h1>
 
-<h6 align="center"> Inventor, Designer and Developer</h6>
+<h3 align="center">🚀 Creative Technologist | Game Developer | Full-Stack Engineer</h3>
+
 <hr>
+
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1400257876107661313/1718874245/1500x500" alt="banner"/>
+</p>
+
+<p align="center">
+  I design and build immersive digital experiences — from high-performance web platforms to game systems powered by Unreal Engine.
+</p>
+
+<hr>
+
 <p align="center">
   
-![Inventor, Designer and Developer](https://pbs.twimg.com/profile_banners/1400257876107661313/1718874245/1500x500)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eldridge-baloyi-90ba54218/)
+[![Portfolio Badge](https://img.shields.io/badge/-3D_Portfolio-black?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/sageking233)
+
 </p>
-<hr>
-<p align="center">I'm an innovative and creative individual focused on innovative design and development.</p>
-<hr align="center">
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/eldridge-baloyi-90ba54218/) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=portfolio&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
-
->
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```yaml
-name: Eldridge Ntsako Garth
-role: Freelance Web Designer, Developer and Game Designer/Developer
-location: Pretoria, South Africa
-education: Dip in Frontend and Backend Dev, Business Admin, Operations Management, Digital Marketing
-interests: ["Coding", "Music", "Gaming", "Travel", "Design"]
-languages: ["No code", "JavaScript", "Python", "C++"]
-```
-
-- 💼 **Open to Collabs and freelance offers**.
-- 💼 Worked at **Growit MC**.
-- 🌱 Learning **Sustainable Development** and **Game Development**.
-- 🎯 Goal for 2025: Populate my repository with most of my projects.
-- ⚡ Fun Fact: I love pizza and am always on the lookout for a great spots.
-
----
-
-## 🚀 Skills & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white)
-
-<details>
-  <summary>More Skills</summary>
-  <ul>
-    <li>Frontend: HTML, React, Css</li>
-    <li>Backend: Javascript, Node.js, Express, Django</li>
-    <li>Database: MongoDB, PostgreSQL</li>
-    <li>Version Control: Git, GitHub</li>
-    <li>Learning DevOps: Docker, Kubernetes</li>
-  </ul>
-  - 🌱 Graduated data science, Front-end and back-end development and Digital Marketing from Digital Africa/Talent4startups. 
-  
-  - 💬 Experience in: HTML5, CSS, REACT, MYSQL, PowerBI, Excel, SQL, Canva, Figma, Adobe XD, Adobe Illustrator, Unreal Engine 5, Sketchup, Blender, Marvelous Designer
-  - 📫 Contact me:  Ntsako.sapphire@gmail.com or Whatsapp - 0610790253
-  - ⚡ Quick fact: I love space, movies, gaming and physical training(Gym - Hiking - Boxing - Qigong).
-    
-  <p>PHP / REACT / JS / HTML / CSS / SEO / ADOBE XD / FIGMA / CANVA / DREAMWEAVER / BLENDER / ADOBE ILLUSTRATOR / UNREAL-ENGINE / SKETCHUP / GAEA / VRAY / LUMION / CLICKUP / GOOGLE WORKSPACE / NOTION  </p>
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
- 
-  ![SAGEKING GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGEKING23&show_icons=true&theme=transparent)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAGEKING23&show_icons=true&theme=transparent)
-  
-
-</p>
-
----
-
-## 💼 Featured Projects
-
-### [🪙 Young Billionaires Universe](https://github.com/SAGEKING23/Young-Billionaires-Universe)
-> A brief description of what this project does.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SAGEKING23&repo=Young-Billionaires-Universe2&theme=radical)
-
-
-### 📦 [3D Assets](https://github.com/SAGEKING23/3D-Assets)
-Game-ready 3D models designed in Marvelous Designer, Blender, and SketchUp.  
-Optimized for use in Unreal Engine, Unity, and other DCC tools. Includes street signs, clothing, props, and more.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname2&theme=radical)
-
----
-
-## 🌐 Connect with Me
-
-- 💬 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)
-- 🌐 Portfolio: [Your Portfolio](https://sketchfab.com/sageking233)
-- 📫 Email: [GMAIL](mailto:ntsako.sapphire@gmail.com)
-
----
-
-## 🎨 Fun Widgets
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)
-
----
-
-<h6>Social Links:</h6>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAGEKING23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eldridge-baloyi-90ba54218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sageking.jin)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sage_king_jin/)  
-
+name: Eldridge Ntsako Garth Baloyi
+role: Full-Stack Developer | Game Designer | Technical Creative
+location: South Africa 🇿🇦
+focus: ["Web Apps", "Game Systems", "3D Pipelines", "UI/UX Systems"]
+current_project: "OBA: Blade of Realms (Action RPG)"
